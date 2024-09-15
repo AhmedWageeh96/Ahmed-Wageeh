@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Wageeh CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info, .languages {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .job-title {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ahmed Wageeh</h1>
+    <div class="contact-info">
+        <p><strong>Mobile:</strong> 01558454485, 01129910936</p>
+        <p><strong>Email:</strong> <a href="mailto:ahmedwageeeh96@gmail.com">ahmedwageeeh96@gmail.com</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmedwageeh/">Ahmed Wageeh</a></p>
+        <p><strong>Location:</strong> Faisal, Giza</p>
+    </div>
+
+    <h2>Summary</h2>
+    <div class="section">
+        <p>Results-driven Recruitment Specialist with over 5 years of experience in full-cycle recruitment...</p>
+    </div>
+
+    <h2>Certifications</h2>
+    <div class="section">
+        <ul>
+            <li>HR Diploma</li>
+            <li>Become a Tech Recruiter</li>
+            <li>Performance Based Hiring</li>
+            <li>Social Media Marketing</li>
+            <!-- Add more certifications here -->
+        </ul>
+    </div>
+
+    <h2>Education</h2>
+    <div class="section">
+        <p><strong>Business Administration, Faculty of Commerce and Business Administration, Helwan University</strong></p>
+        <p>2014 - 2021</p>
+    </div>
+
+    <h2>Work Experience</h2>
+    <div class="section">
+        <p class="job-title">Senior Recruitment Specialist, Talent Navigator</p>
+        <p><em>Jan 2023 - Present</em></p>
+        <ul>
+            <li>Sector-Specific Recruitment for IT and software roles...</li>
+            <li>Proactive Headhunting and Market Research...</li>
+        </ul>
+
+        <p class="job-title">Recruitment Specialist, Talent Navigator</p>
+        <p><em>Jan 2019 - Dec 2022</em></p>
+        <ul>
+            <li>Client Relationship Management and Advanced Candidate Sourcing...</li>
+            <li>Project Management and Mentorship...</li>
+        </ul>
+
+        <p class="job-title">Senior Sales, e& Egypt</p>
+        <p><em>Jan 2016 – Dec 2018</em></p>
+        <ul>
+            <li>Showcase product features and benefits to customers...</li>
+            <li>Analyze consumer market trends and drive revenue growth...</li>
+        </ul>
+    </div>
+
+    <h2>Languages</h2>
+    <div class="languages">
+        <p><strong>Arabic:</strong> Native</p>
+        <p><strong>English:</strong> Very Good</p>
+    </div>
+
+</body>
+</html>
